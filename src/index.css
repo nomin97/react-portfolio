@@ -73,7 +73,7 @@ h5 {
 }
 
 h6 {
-  font-size: 1rem;
+  font-size: 2rem;
 }
 
 p {
@@ -128,6 +128,14 @@ button[disabled] {
 
 img {
   max-width: 100%;
+}
+
+.profileImage {
+  border-radius: 100%;
+  margin: 50px;
+  display: flex;
+  align-items: center;
+  max-width: 400px;
 }
 
 span[role='img'] {
@@ -360,6 +368,8 @@ textarea {
   cursor: default;
   text-shadow: 3px 3px 15px rgba(255,255,255, .5);
 }
+
+
 @media only screen and (max-width: 1300px) {
   nav {
     position: static;

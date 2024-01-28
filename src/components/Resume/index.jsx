@@ -6,7 +6,7 @@ function Resume() {
           Download my <a href="https://docs.google.com/document/d/1qg_BrV5RObkEJQKIFHtpG9JRJacqcxGJQf_o62fBIp0/edit?usp=sharing">resume</a>
           </p>
           <h3>Front-end Proficiencies</h3>
-          <ul className="skills">
+          <ul className="skills">  
             <li>HTML</li>
             <li>CSS</li>
             <li>JavaScript</li>
